@@ -14,7 +14,7 @@
       return `${pad}${value}`
     }
 
-    var Interval ;
+    var Interval;
     var clock = 0;
     var mylist = document.getElementById("lapList");
     var laps = [];
